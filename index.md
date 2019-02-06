@@ -2,64 +2,60 @@
 layout: default
 ---
 [Home](index.html) | <a href="doc/CFP-2019-15th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2019-15th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
-
-# About
-The 15th International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems will be held at the Kyoto Research Park (KRP), Kyoto, Japan, in conjunction with the [ICPP'19](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) - 2019 International Conference on Parallel Processing.
-
-Resource management and scheduling is a crucial task on large-scale computing systems. It plays an essential role in the optimization of resources usage. The goal of this workshop is to bring together researchers and practitioners working in the areas of resource scheduling and resource management to exchange and share their experiences, new ideas, and latest research results on all aspects of scheduling and resource management in parallel and distributed systems including Grids and Clouds.
-
 ---
-# List of Topics
-* Resource allocation and management
-* Advance resource reservation and scheduling
-* Load sharing and Load balancing techniques
-* Network resource allocation
-* Fault-tolerant resource management approaches
-* Data access and management
-* Scheduling data intensive jobs
-* Scheduling on heterogeneous nodes
-* Time slicing, gang, or co-scheduling
-* Fairness, priorities, and accounting Issues
-* Performance implications of scheduling strategies
-* Performance metrics to compare scheduling schemes
-* Virtualization of resources
-* Energy-Aware Resource Management and Scheduling
-
+layout: default
 ---
-# Submission Guidelines
-* All papers must be original and not simultaneously submitted to other journal or conference. 
-* Papers should not exceed 10 pages in the ACM format at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
-* Submission Link:[https://easychair.org/conferences/?conf=srmpds2019](https://easychair.org/conferences/?conf=srmpds2019)
+[Home](index.html) | <a href="doc/CFP-2019-15th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2019-15th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 
----
-# Important Dates:
-* Submissions Due:        Apr. 15, 2018(Firm, Anywhere on earth)
-* Review Decisions:       May 21, 2018 
-* Final Manuscript Due:   May  31, 2018 
-* Workshop Date:          __Aug. 5, 2018__
+# SCOPE
+Large-scale scientific computing systems have become so complex, autonomous management is required to deploy, operate, and tune. Yet the current state-of-the-art for managing high performance and distributed computing infrastructures does not leverage the recent advances in machine learning to more accurately predict, diagnose, and improve systems in response to user computation and system health. This workshop is focused on the emerging science of autonomic management and optimization of large, distributed scientific computing systems.
+Complex scientific workflows consist of thousands of interconnected systems that are geographically distributed. With resources from telescopes and light sources to fast networks and smart IoT sensor systems, it is clear that a single, centralized, operational team and software stack cannot coordinate and manage all of the resources. Instead, resources must begin to respond autonomically, managing and tuning their behavior in response to scientific workflows. The objective of this workshop is to discuss new approaches and methods to make the science ecosystem smart by incorporating the functions of sensing, intelligence, and control. We intend to bring together researchers working on smart and autonomous computing and communication systems, researchers working on middleware and tools to enable distributed science, developers that build distributed science workflows and science users. By bringing together these stakeholders, we hope to foster active discussions, understand the gaps between existing components in distributed science ecosystems and make progress towards bridging the gaps to realize a smart cyberinfrastructure for science.
+Important Dates
 
----
-# Publication
-* All accepted papers will be available at the conference in proceedings in USB Flash disk format, and will be submitted to the IEEE Xplore and CSDL for EI indexing. 
-* After the workshop, the extended version of top few papers will be invited to publish on the Journal of Cluster Computing (2016 Impact Factor: 2.04, 5-Year Impact Factor: 2.08, Quartile: Q2).
-* Workshop proceedings is available at [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3229710)
+# SUBMISSIONS
+All papers must be original and not simultaneously submitted to another journal or conference. Authors are invited to submit either a full (8-page) paper or a short/work-in-progress (4-page) paper. Submission link: https://easychair.org/conferences/?conf=aiscience18 
+Formatting
+Authors are invited to submit papers with unpublished, original work of not more than 8 pages of double column text using single spaced 10 point size on 8.5 x 11 inch pages (including all text, figures, and references), as per ACM 8.5 x 11 manuscript guidelines (document templates can be found at http://www.acm.org/sigs/publications/proceedings-templates). Papers will be peer-reviewed, and accepted papers will be published in the workshop proceedings as part of the ACM digital library.
 
----
-# Venue
-* The workshop will be held at the Kyoto Research Park (KRP), Kyoto, Japan, in the Old Capital City of Japan, on 5 August, in conjunction with the [ICPP'19](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/) - 2019 International Conference on Parallel Processing.
+# TOPICS
+* Autonomous cyberinfrastructure
+* Smart HPC, storage and networks
+* Intelligent distributed workflow applications
+* Real-time, streaming-based data processing and analysis
+* Light-weight machine learning
+* Networked autonomous systems and consensus
+* Smart instruments, edge-systems, and IoTs
+* Data monitoring, instrumentation and management for smart systems
+* Peer-to-peer communication for networked autonomous systems
+* Data analytics for edge systems and IoTs
+Committees
 
----
-# Program
-TBD
+# ORGANIZERS
+## Program Committee
+* Pete Beckman, Argonne National Laboratory, USA
+* Alok Choudhary, Northwestern University, USA
+* Dipak Ghosal, University of California, Davis, USA
+* Hai Jin, Huazhong University of Science and Technology, China
+* Eun-Sung Jung, Hongik University, South Korea
+* Raj Kettimuthu, Argonne National Laboratory, USA
+* Jinoh Kim, Texas A&M University, USA
+* Mariam Kiran, Energy Sciences Network, USA
+* Kerstin Kleese van Dam, Brookhaven National Laboratory, USA
+* Wei-keng Liao, Northwestern University, USA
+* Nagi Rao, Oak Ridge National Laboratory, USA
+* Eric Rutten, INRIA, France
+* Alex Sim, Lawrence Berkeley National Laboratory, USA
+* John Wu, Lawrence Berkeley National Laboratory, USA
+* Ramin Yahyapour, University of Göttingen, Germany
 
----
-# Committees
-TBD
+## Organizing committee
+* Pete Beckman, Argonne National Laboratory, USA
+* Raj Kettimuthu, Argonne National Laboratory, USA
+* Alex Sim, Lawrence Berkeley National Laboratory, USA
 
-## Chairs
-* [Zhengchun Liu](https://lzhengchun.github.io/) (University of Chicago, USA; Argonne National Laboratory, USA)
-* [Rajkumar Kettimuthu](http://mcs.anl.gov/~kettimut/) (Argonne National Laboratory, USA; University of Chicago, USA)
+## Publicity Chair
+* Zhengchun, University of Chicago and Argonne National Laboratory, USA
 
----
-# Contact
-* srmpds-AT-anl.gov (replace -AT- with @), or directly email to chairs. 
+# CONTACT
+====================
+All questions about submissions should be emailed to ai-science@mcs.anl.gov. More information is available at https://ai-science.github.io/.
