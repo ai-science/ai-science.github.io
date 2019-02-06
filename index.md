@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-[Home](index.html) | <a href="doc/CFP-2019-15th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2019-15th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
+[Home](index.html) | <a href="doc/CFP-ai-science-2019.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-ai-science-2019.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 ---
 layout: default
 ---
-[Home](index.html) | <a href="doc/CFP-2019-15th-SRMPDS.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-2019-15th-SRMPDS.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
+[Home](index.html) | <a href="doc/CFP-ai-science-2019.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-ai-science-2019.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 
 # SCOPE
 Large-scale scientific computing systems have become so complex, autonomous management is required to deploy, operate, and tune. Yet the current state-of-the-art for managing high performance and distributed computing infrastructures does not leverage the recent advances in machine learning to more accurately predict, diagnose, and improve systems in response to user computation and system health. This workshop is focused on the emerging science of autonomic management and optimization of large, distributed scientific computing systems.
@@ -13,7 +13,7 @@ Complex scientific workflows consist of thousands of interconnected systems that
 Important Dates
 
 # SUBMISSIONS
-All papers must be original and not simultaneously submitted to another journal or conference. Authors are invited to submit either a full (8-page) paper or a short/work-in-progress (4-page) paper. Submission link: https://easychair.org/conferences/?conf=aiscience18 
+All papers must be original and not simultaneously submitted to another journal or conference. Authors are invited to submit either a full (8-page) paper or a short/work-in-progress (4-page) paper. Submission link: https://easychair.org/conferences/?conf=aiscience19
 Formatting
 Authors are invited to submit papers with unpublished, original work of not more than 8 pages of double column text using single spaced 10 point size on 8.5 x 11 inch pages (including all text, figures, and references), as per ACM 8.5 x 11 manuscript guidelines (document templates can be found at http://www.acm.org/sigs/publications/proceedings-templates). Papers will be peer-reviewed, and accepted papers will be published in the workshop proceedings as part of the ACM digital library.
 
