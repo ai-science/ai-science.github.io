@@ -20,9 +20,9 @@ Authors are invited to submit papers with unpublished, original work of not more
 
 ---
 # IMPORTANT DATES
-Submissions Due: Apr 2, 2019
-Review Decisions: Apr 23, 2019
-Final Manuscript Due: May 7, 2019
+* Submissions Due: Apr 2, 2019
+* Review Decisions: Apr 23, 2019
+* Final Manuscript Due: May 7, 2019
 
 ---
 # TOPICS
