@@ -51,7 +51,6 @@ Authors are invited to submit papers with unpublished, original work of not more
 * Kerstin Kleese van Dam, Brookhaven National Laboratory, USA
 * Wei-keng Liao, Northwestern University, USA
 * Nagi Rao, Oak Ridge National Laboratory, USA
-* Eric Rutten, INRIA, France
 * Alex Sim, Lawrence Berkeley National Laboratory, USA
 * John Wu, Lawrence Berkeley National Laboratory, USA
 * Ramin Yahyapour, University of Göttingen, Germany
@@ -64,6 +63,7 @@ Authors are invited to submit papers with unpublished, original work of not more
 * Pete Beckman, Argonne National Laboratory, USA
 * Raj Kettimuthu, Argonne National Laboratory, USA
 * Alex Sim, Lawrence Berkeley National Laboratory, USA
+* Eric Rutten, INRIA, France
 
 ## Publicity Chair
 * Zhengchun, University of Chicago and Argonne National Laboratory, USA
