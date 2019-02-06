@@ -45,6 +45,10 @@ Authors are invited to submit papers with unpublished, original work of not more
 * Alex Sim, Lawrence Berkeley National Laboratory, USA
 * John Wu, Lawrence Berkeley National Laboratory, USA
 * Ramin Yahyapour, University of Göttingen, Germany
+* Alessandro Vittorio Papadopoulos, Malardalen University, Sweden
+* Swann Perarnau, Argonne National Laboratory, USA 
+* Ming Zhao, Arizona State University, USA
+* Erik Elmroth, Umeå University, Sweden
 
 ## Organizing committee
 * Pete Beckman, Argonne National Laboratory, USA
