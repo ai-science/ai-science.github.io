@@ -2,7 +2,9 @@
 layout: default
 ---
 [Home](index.html) | <a href="doc/CFP-ai-science-2019.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-ai-science-2019.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
----
+
+# ABOUT
+The 2nd Autonomous Infrastructure for Science workshop (AI-science).To be held in conjunction with ACM HPDC 2019 in Phoenix, Arizona, June 24, 2019.
 
 # SCOPE
 Large-scale scientific computing systems have become so complex, autonomous management is required to deploy, operate, and tune. Yet the current state-of-the-art for managing high performance and distributed computing infrastructures does not leverage the recent advances in machine learning to more accurately predict, diagnose, and improve systems in response to user computation and system health. This workshop is focused on the emerging science of autonomic management and optimization of large, distributed scientific computing systems.
