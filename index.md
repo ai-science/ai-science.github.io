@@ -14,7 +14,7 @@ Important Dates
 
 ---
 # SUBMISSIONS
-All papers must be original and not simultaneously submitted to another journal or conference. Authors are invited to submit either a full (8-page) paper or a short/work-in-progress (4-page) paper. Submission link: https://easychair.org/conferences/?conf=ai-science19
+All papers must be original and not simultaneously submitted to another journal or conference. Authors are invited to submit either a full (8-page) paper or a short/work-in-progress (4-page) paper. Submission link: https://easychair.org/conferences/?conf=aiscience19
 Formatting
 Authors are invited to submit papers with unpublished, original work of not more than 8 pages of double column text using single spaced 10 point size on 8.5 x 11 inch pages (including all text, figures, and references), as per ACM 8.5 x 11 manuscript guidelines (document templates can be found at http://www.acm.org/sigs/publications/proceedings-templates). Papers will be peer-reviewed, and accepted papers will be published in the workshop proceedings as part of the ACM digital library.
 
