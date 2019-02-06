@@ -1,12 +1,10 @@
 gems:
   - jekyll-seo-tag
 title: International Workshop on SRMPDS
-description: Homepage of the International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems. 
-url: https://srmpds.github.io/
+description: Homepage of the AI-Science Workshop. 
+url: https://ai-science.github.io/
 social:
-  name: International Workshop on SRMPDS
-  links:
-    - https://sites.google.com/site/srmpds/
+  name: AI-Science Workshop
 show_downloads: false
 google_analytics:
 theme: 
