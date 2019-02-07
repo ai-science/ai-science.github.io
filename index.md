@@ -40,26 +40,7 @@ Authors are invited to submit papers with unpublished, original work of not more
 ---
 # ORGANIZERS
 ## Program Committee
-* Pete Beckman, Argonne National Laboratory, USA
-* Alok Choudhary, Northwestern University, USA
-* Dipak Ghosal, University of California, Davis, USA
-* Hai Jin, Huazhong University of Science and Technology, China
-* Eun-Sung Jung, Hongik University, South Korea
-* Raj Kettimuthu, Argonne National Laboratory, USA
-* Jinoh Kim, Texas A&M University, USA
-* Mariam Kiran, Energy Sciences Network, USA
-* Kerstin Kleese van Dam, Brookhaven National Laboratory, USA
-* Wei-keng Liao, Northwestern University, USA
-* Nagi Rao, Oak Ridge National Laboratory, USA
-* Alex Sim, Lawrence Berkeley National Laboratory, USA
-* John Wu, Lawrence Berkeley National Laboratory, USA
-* Ramin Yahyapour, University of Göttingen, Germany
-* Alessandro Vittorio Papadopoulos, Malardalen University, Sweden
-* Swann Perarnau, Argonne National Laboratory, USA 
-* Eric Rutten, INRIA, France
-* Ming Zhao, Arizona State University, USA
-* Erik Elmroth, Umeå University, Sweden
-* Tekin Bicer, Argonne National Laboratory, USA
+TBD
 
 ## Organizing committee
 * Pete Beckman, Argonne National Laboratory, USA
