@@ -56,6 +56,7 @@ Authors are invited to submit papers with unpublished, original work of not more
 * Ramin Yahyapour, University of Göttingen, Germany
 * Alessandro Vittorio Papadopoulos, Malardalen University, Sweden
 * Swann Perarnau, Argonne National Laboratory, USA 
+* Eric Rutten, INRIA, France
 * Ming Zhao, Arizona State University, USA
 * Erik Elmroth, Umeå University, Sweden
 * Tekin Bicer, Argonne National Laboratory, USA
@@ -67,7 +68,7 @@ Authors are invited to submit papers with unpublished, original work of not more
 * Eric Rutten, INRIA, France
 
 ## Publicity Chair
-* Zhengchun, University of Chicago and Argonne National Laboratory, USA
+* Zhengchun Liu, University of Chicago and Argonne National Laboratory, USA
 
 ---
 # CONTACT
