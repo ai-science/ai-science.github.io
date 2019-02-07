@@ -58,6 +58,7 @@ Authors are invited to submit papers with unpublished, original work of not more
 * Swann Perarnau, Argonne National Laboratory, USA 
 * Ming Zhao, Arizona State University, USA
 * Erik Elmroth, Umeå University, Sweden
+* Tekin Bicer, Argonne National Laboratory, USA
 
 ## Organizing committee
 * Pete Beckman, Argonne National Laboratory, USA
