@@ -4,7 +4,7 @@ layout: default
 [Home](index.html) | <a href="doc/CFP-ai-science-2019.txt" target="_blank">CFP.txt</a> | <a href="doc/CFP-ai-science-2019.pdf" target="_blank">CFP.pdf</a> | [Past Events](past.html)
 
 # ABOUT
-The 2nd Autonomic Infrastructure for Science workshop (AI-science). To be held in conjunction with [ACM HPDC 2019](http://hpdc.org/2019/) in Phoenix, Arizona, June 24, 2019.
+The 2nd Autonomic Infrastructure for Science workshop (AI-Science). To be held in conjunction with [ACM HPDC 2019](http://hpdc.org/2019/) in Phoenix, Arizona, June 24, 2019.
 
 ---
 # SCOPE
