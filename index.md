@@ -63,7 +63,6 @@ Authors are invited to submit papers with unpublished, original work of not more
 * Zhengchun Liu, Argonne National Laboratory, USA
 * Shinjae Yoo, Brookhaven National Laboratory, USA
 <!-- * Frank Alexander, Brookhaven National Laboratory, USA -->
-* Recruiting 
 
 ## Organizing committee
 * Pete Beckman, Argonne National Laboratory, USA
