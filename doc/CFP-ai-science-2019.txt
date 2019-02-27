@@ -1,5 +1,5 @@
 Call for Papers
-The 2nd Autonomous Infrastructure for Science workshop (AI-science) 
+The 2nd Autonomic Infrastructure for Science workshop (AI-science) 
 
 https://easychair.org/conferences/?conf=aiscience19
 
@@ -13,8 +13,8 @@ Final Manuscript Due: May 7, 2019
 
 SCOPE
 ==================
-Large-scale scientific computing systems have become so complex, autonomous management is required to deploy, operate, and tune. Yet the current state-of-the-art for managing high performance and distributed computing infrastructures does not leverage the recent advances in machine learning to more accurately predict, diagnose, and improve systems in response to user computation and system health. This workshop is focused on the emerging science of autonomic management and optimization of large, distributed scientific computing systems.
-Complex scientific workflows consist of thousands of interconnected systems that are geographically distributed. With resources from telescopes and light sources to fast networks and smart IoT sensor systems, it is clear that a single, centralized, operational team and software stack cannot coordinate and manage all of the resources. Instead, resources must begin to respond autonomically, managing and tuning their behavior in response to scientific workflows. The objective of this workshop is to discuss new approaches and methods to make the science ecosystem smart by incorporating the functions of sensing, intelligence, and control. We intend to bring together researchers working on smart and autonomous computing and communication systems, researchers working on middleware and tools to enable distributed science, developers that build distributed science workflows and science users. By bringing together these stakeholders, we hope to foster active discussions, understand the gaps between existing components in distributed science ecosystems and make progress towards bridging the gaps to realize a smart cyberinfrastructure for science.
+Large-scale scientific computing systems have become so complex, autonomic management is required to deploy, operate, and tune. Yet the current state-of-the-art for managing high performance and distributed computing infrastructures does not leverage the recent advances in machine learning to more accurately predict, diagnose, and improve systems in response to user computation and system health. This workshop is focused on the emerging science of autonomic management and optimization of large, distributed scientific computing systems.
+Complex scientific workflows consist of thousands of interconnected systems that are geographically distributed. With resources from telescopes and light sources to fast networks and smart IoT sensor systems, it is clear that a single, centralized, operational team and software stack cannot coordinate and manage all of the resources. Instead, resources must begin to respond autonomically, managing and tuning their behavior in response to scientific workflows. The objective of this workshop is to discuss new approaches and methods to make the science ecosystem smart by incorporating the functions of sensing, intelligence, and control. We intend to bring together researchers working on smart and autonomic computing and communication systems, researchers working on middleware and tools to enable distributed science, developers that build distributed science workflows and science users. By bringing together these stakeholders, we hope to foster active discussions, understand the gaps between existing components in distributed science ecosystems and make progress towards bridging the gaps to realize a smart cyberinfrastructure for science.
 Important Dates
 
 SUBMISSIONS
@@ -25,15 +25,15 @@ Authors are invited to submit papers with unpublished, original work of not more
 
 TOPICS
 ==================
-* Autonomous cyberinfrastructure
+* autonomic cyberinfrastructure
 * Smart HPC, storage and networks
 * Intelligent distributed workflow applications
 * Real-time, streaming-based data processing and analysis
 * Light-weight machine learning
-* Networked autonomous systems and consensus
+* Networked autonomic systems and consensus
 * Smart instruments, edge-systems, and IoTs
 * Data monitoring, instrumentation and management for smart systems
-* Peer-to-peer communication for networked autonomous systems
+* Peer-to-peer communication for networked autonomic systems
 * Data analytics for edge systems and IoTs
 
 ORGANIZERS
