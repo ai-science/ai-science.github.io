@@ -21,8 +21,8 @@ Authors are invited to submit papers with unpublished, original work of not more
 
 ---
 # IMPORTANT DATES
-* Submissions Due: Apr 2, 2019
-* Review Decisions: Apr 23, 2019
+* Submissions Due: Apr. 2, 2019 => __Apr. 9, 2019 (Firm, Anywhere on earth)__
+* Review Decisions: Apr. 23, 2019 => __May 1, 2019__
 * Final Manuscript Due: May 6, 2019
 
 ---
